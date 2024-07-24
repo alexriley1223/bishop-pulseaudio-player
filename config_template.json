@@ -1,0 +1,11 @@
+
+{
+    "isModuleEnabled": true,
+    "musicChannelId": "",
+    "commands": {
+        "pajoin.js": true,
+        "paleave.js": true
+    },
+    "pulseDevice": "auto_null.monitor",
+    "pulseBitrate": "48000"
+}
