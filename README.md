@@ -21,4 +21,4 @@ A module for the [Bishop Discord Bot](https://github.com/alexriley1223/bishop) t
 4. Restart bot.
 
 ### Issues
-This repository is actively maintained by me. If you run into any issues, feel free to <a href="https://github.com/alexriley1223/bishop-assigner/issues/new">create a new issue here</a>.
+This repository is actively maintained by me. If you run into any issues, feel free to <a href="https://github.com/alexriley1223/bishop-pulseaudio-player/issues/new">create a new issue here</a>.
